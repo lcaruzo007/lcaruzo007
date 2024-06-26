@@ -7,7 +7,7 @@
   
 ## Linguagens e Ferramentas
 [![](https://img.shields.io/badge/-Python-blue?style=flat-square&logo=python&logoColor=white)](https://www.python.org/)
-[![](https://img.shields.io/badge/-SQL-green?style=flat-square&logo=mysql&logoColor=white)](https://www.mysql.com/)
+[![](https://img.shields.io/badge/-SQL-darkgreen?style=flat-square&logo=mysql&logoColor=white)](https://www.mysql.com/)
 
 
 ## Estatísticas do GitHub
