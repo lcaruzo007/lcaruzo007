@@ -15,11 +15,12 @@
   </a>
 </p>
 
-## Estatísticas do GitHub
-[![Estatísticas do GitHub](https://github-readme-stats.vercel.app/api?username=lcaruzo007&show_icons=true&theme=dark)](https://github.com/lcaruzo007)
-
 ## Lattes
-[Currículo Lattes](https://lattes.cnpq.br/0618711299993791)
+<p align="left">
+  <a href="https://lattes.cnpq.br/0618711299993791">
+    <img src="https://img.shields.io/badge/-Currículo_Lattes-orange?style=for-the-badge&logoColor=white" alt="Currículo Lattes">
+  </a>
+</p>
 
 ## Contato
 <p align="left">
@@ -33,5 +34,8 @@
     <img src="https://img.shields.io/badge/-Gmail-red?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail">
   </a>
 </p>
+
+## Estatísticas do GitHub
+[![Estatísticas do GitHub](https://github-readme-stats.vercel.app/api?username=lcaruzo007&show_icons=true&theme=dark)](https://github.com/lcaruzo007)
 
 "Mesmo nos tempos mais sombrios, a esperança prevalece, sendo a luz que nos guia para fora da escuridão." - Superman
