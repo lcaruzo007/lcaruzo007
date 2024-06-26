@@ -3,8 +3,8 @@
 ## Sobre mim
 - 🔭 Atualmente estou trabalhando em projetos interessantes.
 - 🥑 Buscando aprender a cada dia, com toda experiência, boa ou ruim!
-- 📫 Como me alcançar: [lucas.caruzo@alunos.ifsuldeminas.edu.br](mailto:lucas.caruzo@alunos.ifsuldeminas.edu.br) [![](https://img.shields.io/badge/-Email-red?style=flat-square&logo=gmail&logoColor=white)](mailto:lucas.caruzo@alunos.ifsuldeminas.edu.br)
-
+- 📫 Como me alcançar: [lucas.caruzo@alunos.ifsuldeminas.edu.br](mailto:lucas.caruzo@alunos.ifsuldeminas.edu.br)
+- 
 ## Citação do Superman
 ![Superman](https://logodownload.org/wp-content/uploads/2017/08/superman-logo-super-homem-1.png)
 > "A verdade é... eu sou o Superman." - Superman
