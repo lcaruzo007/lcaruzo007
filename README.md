@@ -7,7 +7,8 @@
   
 ## Linguagens e Ferramentas
 [![](https://img.shields.io/badge/-Python-blue?style=flat-square&logo=python&logoColor=white)](https://www.python.org/)
-[![](https://img.shields.io/badge/-SQL-blue?style=flat-square&logo=postgresql&logoColor=white)](https://www.postgresql.org/)
+[![](https://img.shields.io/badge/-SQL-green?style=flat-square&logo=mysql&logoColor=white)](https://www.mysql.com/)
+
 
 ## Estatísticas do GitHub
 [![Estatísticas do GitHub](https://github-readme-stats.vercel.app/api?username=lcaruzo007&show_icons=true&theme=dark)](https://github.com/lcaruzo007)
