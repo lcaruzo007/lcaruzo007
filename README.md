@@ -6,9 +6,14 @@
 - 📫 Como me alcançar: [lucas.caruzo@alunos.ifsuldeminas.edu.br](mailto:lucas.caruzo@alunos.ifsuldeminas.edu.br)
   
 ## Linguagens e Ferramentas
-[![](https://img.shields.io/badge/-Python-blue?style=flat-square&logo=python&logoColor=white)](https://www.python.org/)
-[![](https://img.shields.io/badge/-SQL-darkgreen?style=flat-square&logo=mysql&logoColor=white)](https://www.mysql.com/)
-
+<p align="left">
+  <a href="https://www.python.org/">
+    <img src="https://img.shields.io/badge/-Python-blue?style=for-the-badge&logo=python&logoColor=white" alt="Python">
+  </a>
+  <a href="https://www.mysql.com/">
+    <img src="https://img.shields.io/badge/-MySQL-darkgreen?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL">
+  </a>
+</p>
 
 ## Estatísticas do GitHub
 [![Estatísticas do GitHub](https://github-readme-stats.vercel.app/api?username=lcaruzo007&show_icons=true&theme=dark)](https://github.com/lcaruzo007)
@@ -17,8 +22,16 @@
 [Currículo Lattes](https://lattes.cnpq.br/0618711299993791)
 
 ## Contato
-[![](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/lucascaruzo/)
-[![](https://img.shields.io/badge/-Instagram-purple?style=flat-square&logo=instagram&logoColor=white)](https://www.instagram.com/l.caruzo/)
-[![](https://img.shields.io/badge/-Gmail-red?style=flat-square&logo=gmail&logoColor=white)](mailto:lucas.caruzo@alunos.ifsuldeminas.edu.br)
+<p align="left">
+  <a href="https://www.linkedin.com/in/lucascaruzo/">
+    <img src="https://img.shields.io/badge/-LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
+  </a>
+  <a href="https://www.instagram.com/l.caruzo/">
+    <img src="https://img.shields.io/badge/-Instagram-purple?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram">
+  </a>
+  <a href="mailto:lucas.caruzo@alunos.ifsuldeminas.edu.br">
+    <img src="https://img.shields.io/badge/-Gmail-red?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail">
+  </a>
+</p>
 
-"Mesmo nos tempos mais sombrios, a esperança prevalece, sendo a luz que nos guia para fora da escuridão (Superman)"
+"Mesmo nos tempos mais sombrios, a esperança prevalece, sendo a luz que nos guia para fora da escuridão." - Superman
