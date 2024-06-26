@@ -6,7 +6,7 @@
 - 📫 Como me alcançar: [lucas.caruzo@alunos.ifsuldeminas.edu.br](mailto:lucas.caruzo@alunos.ifsuldeminas.edu.br)
 - 
 ## Citação do Superman
-![Superman](https://logodownload.org/wp-content/uploads/2017/08/superman-logo-super-homem-1.png)
+![Superman](https://www.canva.com/design/DAGJRbYV0tU/dw2hYr7e_m4L9bWJ1ni8jw/edit?utm_content=DAGJRbYV0tU&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton)
 > "A verdade é... eu sou o Superman." - Superman
 
 ## Linguagens e Ferramentas
