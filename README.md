@@ -6,7 +6,7 @@
 - 📫 Como me alcançar: [lucas.caruzo@alunos.ifsuldeminas.edu.br](mailto:lucas.caruzo@alunos.ifsuldeminas.edu.br) [![](https://img.shields.io/badge/-Email-red?style=flat-square&logo=gmail&logoColor=white)](mailto:lucas.caruzo@alunos.ifsuldeminas.edu.br)
 
 ## Citação do Superman
-![Superman](https://drive.google.com/file/d/1yQMxncVmWKg3l253btA42lDE-RYsr5oI/view?usp=sharing)
+![Superman]([https://drive.google.com/file/d/1yQMxncVmWKg3l253btA42lDE-RYsr5oI/view?usp=sharing](https://www.google.com/url?sa=i&url=https%3A%2F%2Flogodownload.org%2Fsuperman-logo-super-homem-logo%2F&psig=AOvVaw2L5r7swRlKRmCF8a3Pspnw&ust=1719522819490000&source=images&cd=vfe&opi=89978449&ved=0CBEQjRxqFwoTCMCPgNaX-oYDFQAAAAAdAAAAABAE))
 > "A verdade é... eu sou o Superman." - Superman
 
 ## Linguagens e Ferramentas
