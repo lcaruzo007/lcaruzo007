@@ -33,9 +33,12 @@
   <a href="mailto:lucas.caruzo@alunos.ifsuldeminas.edu.br">
     <img src="https://img.shields.io/badge/-Gmail-red?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail">
   </a>
+  <a href="https://www.youtube.com/channel/UCwXQNrE0nDiJV2k5hRsgZKw">
+    <img src="https://img.shields.io/badge/-YouTube-red?style=for-the-badge&logo=youtube&logoColor=white" alt="YouTube">
+  </a>
 </p>
 
 ## Estatísticas do GitHub
 [![Estatísticas do GitHub](https://github-readme-stats.vercel.app/api?username=lcaruzo007&show_icons=true&theme=dark)](https://github.com/lcaruzo007)
 
-"Mesmo nos tempos mais sombrios, a esperança prevalece, sendo a luz que nos guia para fora da escuridão." - Superman
+**"Mesmo nos tempos mais sombrios, a esperança prevalece, sendo a luz que nos guia para fora da escuridão." - Superman**
