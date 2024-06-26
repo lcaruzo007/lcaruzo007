@@ -34,7 +34,7 @@
     <img src="https://img.shields.io/badge/-Gmail-red?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail">
   </a>
   <a href="https://www.youtube.com/channel/UCwXQNrE0nDiJV2k5hRsgZKw">
-    <img src="https://img.shields.io/badge/-YouTube-red?style=for-the-badge&logo=youtube&logoColor=white" alt="YouTube">
+    <img src="https://img.shields.io/badge/-YouTube-darkred?style=for-the-badge&logo=youtube&logoColor=white" alt="YouTube">
   </a>
 </p>
 
