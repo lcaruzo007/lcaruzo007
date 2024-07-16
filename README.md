@@ -38,7 +38,4 @@
   </a>
 </p>
 
-## Estatísticas do GitHub
-[![Estatísticas do GitHub](https://github-readme-stats.vercel.app/api?username=lcaruzo007&show_icons=true&theme=dark)](https://github.com/lcaruzo007)
-
 **"Mesmo nos tempos mais sombrios, a esperança prevalece, sendo a luz que nos guia para fora da escuridão." - Superman**
