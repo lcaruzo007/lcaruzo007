@@ -1,4 +1,4 @@
-# Bem-vindo ao meu perfil do GitHub, é um prazer recebê-lo! 😎
+# Bom Dia! 🤠
 
 ## Sobre mim
 - 🔭 Atualmente estou trabalhando em projetos interessantes.
