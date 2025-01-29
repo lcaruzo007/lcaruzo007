@@ -3,7 +3,7 @@
 ## Sobre mim
 - 🔭 Atualmente estou trabalhando em projetos interessantes.
 - 🥑 Buscando aprender a cada dia, com toda experiência, boa ou ruim!
-- 📫 Como me alcançar: [lucas.caruzo@alunos.ifsuldeminas.edu.br](mailto:lucas.caruzo@alunos.ifsuldeminas.edu.br)
+- 📫 Como me alcançar: [lucascaruzo76@gmail.com](mailto:lucascaruzo76@gmail.com)
   
 ## Linguagens e Ferramentas
 <p align="left">
@@ -17,7 +17,7 @@
     <img src="https://img.shields.io/badge/-HTML5-orange?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5">
   </a>
   <a href="https://developer.mozilla.org/en-US/docs/Web/CSS">
-    <img src="https://img.shields.io/badge/-CSS3-blue?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3">
+    <img src="https://img.shields.io/badge/-CSS3-darkblue?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3">
   </a>
   <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript">
     <img src="https://img.shields.io/badge/-JavaScript-yellow?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript">
