@@ -8,16 +8,16 @@
 ## Linguagens e Ferramentas
 <p align="left">
   <a href="https://www.python.org/">
-    <img src="https://img.shields.io/badge/-Python-blue?style=for-the-badge&logo=python&logoColor=white" alt="Python">
+    <img src="https://img.shields.io/badge/-Python-darkblue?style=for-the-badge&logo=python&logoColor=white" alt="Python">
   </a>
   <a href="https://www.mysql.com/">
     <img src="https://img.shields.io/badge/-MySQL-darkgreen?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL">
   </a>
   <a href="https://developer.mozilla.org/en-US/docs/Web/HTML">
-    <img src="https://img.shields.io/badge/-HTML5-orange?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5">
+    <img src="https://img.shields.io/badge/-HTML5-red?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5">
   </a>
   <a href="https://developer.mozilla.org/en-US/docs/Web/CSS">
-    <img src="https://img.shields.io/badge/-CSS3-darkblue?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3">
+    <img src="https://img.shields.io/badge/-CSS3-blue?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3">
   </a>
   <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript">
     <img src="https://img.shields.io/badge/-JavaScript-yellow?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript">
